@@ -1,5 +1,5 @@
 import Header from "./Components/Header";
-function App() {
+function App({reverse}) {
   return (
    < Header />
   );
