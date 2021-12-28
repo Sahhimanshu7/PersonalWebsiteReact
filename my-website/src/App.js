@@ -1,5 +1,5 @@
 import Header from "./Components/Header";
-import  Photo  from "./Components/Photo.js";
+import Logo from "./Components/Logo";
 
 
 
@@ -7,7 +7,7 @@ function App({reverse}) {
   return (
     <>
     < Header />
-     <Photo />
+    <Logo />
     </>
    
   );
