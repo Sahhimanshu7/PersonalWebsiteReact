@@ -3,7 +3,6 @@ import Intro from "./Intro";
 import Social from "./Social";
 
 function Logo(){
-    console.log(Social);
     return (
         <>
         <Photo />
