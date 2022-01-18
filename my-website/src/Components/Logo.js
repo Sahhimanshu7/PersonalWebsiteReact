@@ -1,8 +1,10 @@
 import Photo from "./Photo";
 import Intro from "./Intro";
 import Social from "./Social";
+import Footer from "./Footer";
 
 function Logo(){
+    let button = "About";
     return (
         <>
         <Photo />
@@ -11,6 +13,7 @@ function Logo(){
         </div>
         <Intro />
         <Social />
+        <Footer buttonName={button}/>
         </>
     )
 }

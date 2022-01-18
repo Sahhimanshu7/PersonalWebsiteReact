@@ -4,7 +4,7 @@ function Social() {
   return (
     <div className="social">
       <div className="fb"><a href={fb}><i class="fab fa-facebook"></i></a></div>
-      <div className="tw"><a href="https://twitter.com/himanshu_sah"><i class="fab fa-twitter"></i></a></div>
+      <div className="tw"><a href="https://twitter.com/sahhimanshu41"><i class="fab fa-twitter"></i></a></div>
       <div className="in"><a href="https://www.linkedin.com/in/himanshu-sah-a98799165/"><i class="fab fa-linkedin-in"></i></a></div>
       <div className="insta"><a href="https://www.instagram.com/sah_himanshu7/"><i class="fab fa-instagram-square"></i></a></div>
       <div className="git"><a href="https://github.com/Sahhimanshu7"><i class="fab fa-github"></i></a></div>

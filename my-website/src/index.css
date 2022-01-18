@@ -116,3 +116,24 @@ code {
   text-shadow: #C5C6C7;
   font-size: large;
 }
+
+.footer-content{
+  margin: 5% 8%;
+}
+
+.footer-content-left button{
+  text-decoration: none;
+  font-size: 0.8rem;
+  color: #C5C6C7;
+
+  border: 0px solid #000000;
+  border-radius: 10px;
+  padding: 0.5% 2%;
+  background-color: #2F69BF;
+}
+
+
+
+.footer-content-left button:hover{
+  cursor: pointer;
+}
