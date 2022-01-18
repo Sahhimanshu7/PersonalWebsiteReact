@@ -118,7 +118,7 @@ code {
 }
 
 .footer-content{
-  margin: 5% 8%;
+  margin: 5% 8% 0% 8%;
 }
 
 .footer-content-left button{
@@ -136,4 +136,14 @@ code {
 
 .footer-content-left button:hover{
   cursor: pointer;
+}
+
+.copyright{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 0.5rem;
+
+  color: #C5C6C7;
+  margin: 4% 0% 0% 40%;
 }
