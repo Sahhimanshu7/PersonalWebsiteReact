@@ -1,6 +1,11 @@
+import Table from "./Table"
+
 function Software(){
     return(
-        <h1>This is software page</h1>
+        <>
+        <h1>Software Repository</h1>
+        <Table />
+        </>
     )
 }
 
